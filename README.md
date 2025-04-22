@@ -2,8 +2,6 @@
 
 **Author:** Bocaletto Luca
 
-**Website:** [www.elektronoide.it](https://www.elektronoide.it)
-
 **License:** GPLv3
 
 **Description:**
