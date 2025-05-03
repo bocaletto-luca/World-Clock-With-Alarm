@@ -2,6 +2,8 @@
 
 **Author:** Bocaletto Luca
 
+**Language:** Python
+
 **License:** GPLv3
 
 **Description:**
