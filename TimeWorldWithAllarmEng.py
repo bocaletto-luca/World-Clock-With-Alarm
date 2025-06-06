@@ -1,6 +1,5 @@
 # Name Software: World Clock With Alarm
 # Author: Bocaletto Luca
-# Site Web: https://www.elektronoide.it
 # License: GPLv3
 # Import necessary modules
 # Importa i moduli necessari
