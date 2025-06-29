@@ -24,20 +24,10 @@ World Clock With Alarm will help you keep track of time around the world and set
 
 Feel free to enhance the software, and thank you for using it.
 
-# Lingua Italiana
+---
 
-**Descrizione:**
-World Clock With Alarm è un'applicazione basata su Python che ti consente di monitorare l'orario in diversi fusi orari di tutto il mondo e impostare sveglie personalizzate. Questo software utilizza il modulo tkinter per l'interfaccia utente e offre funzionalità come la visualizzazione dell'orario attuale in un fuso orario selezionato, nonché la possibilità di impostare sveglie in base a fusi orari specifici. Puoi anche selezionare un paese o una città e ottenere l'orario corrente in quel luogo. World Clock With Alarm è progettato per essere facile da usare e personalizzare secondo le tue esigenze.
+**Maintainer Update**
 
-![Screenshot 2023-10-11 112622](https://github.com/elektronoide/World-Clock-With-Alarm/assets/134635227/c8b11359-85fa-46d4-ba1e-35fcf21f9af9)
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
 
-**Istruzioni per l'installazione e l'utilizzo:**
-1. Assicurati di avere Python installato sul tuo sistema.
-2. Esegui il software Python utilizzando il file sorgente fornito.
-3. Seleziona un paese o una città dal menu a discesa per visualizzare l'orario corrente in quel luogo.
-4. Imposta una sveglia specificando l'orario desiderato nel formato "HH:MM" e premi il pulsante "Imposta Sveglia".
-5. Quando scatta l'orario della sveglia, il software riprodurrà un suono e mostrerà un messaggio di notifica.
-
-World Clock With Alarm ti aiuterà a tenere traccia dell'orario in tutto il mondo e a impostare sveglie personalizzate in base alle tue esigenze. È un'applicazione utile per chi viaggia spesso o ha bisogno di monitorare l'orario in diverse zone orarie.
-
-Sentiti libero di migliorare il software e grazie per averlo utilizzato.
+---
